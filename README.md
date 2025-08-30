@@ -185,7 +185,7 @@ cd restaurant-business-analysis
 ```
 2. Open and run notebooks:
 ```
-   jupyter notebook Analysis_Review.ipynb
+   jupyter notebook restaurant_business_analysis.ipynb
 ```
 
 
